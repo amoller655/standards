@@ -1,0 +1,4 @@
+All configurations must follow the same naming conventions (Every configuration has the same name for things)
+All hardware names within configurations must be entirely lowercase ("leftfront", NOT "leftFront")
+Please refer to wiring map when creating configurations to confirm the ports things are attached to
+Please make any attempt to keep configurations consistent between phones (Configuration files can be copied through the PC)
